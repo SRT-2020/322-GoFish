@@ -1,0 +1,16 @@
+I "worked" with Michael Brauringer. We spent the first few days
+workingg together, and share similar or the same functions that follow:
+shuffle
+deal
+add
+remove
+check
+add book
+----------
+transfer
+reset
+
+Where Michael wrote the final version of those above the line, and I below.
+
+The functions, although credited to one of us, were largely worked on in conjunction,
+using cues from each others' work.
